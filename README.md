@@ -14,7 +14,10 @@ A fast, responsive, and elegant **typing practice web app** built during the **M
 
 ## 🚀 Live Demo
 
-> 🔗 **[Click here to try Type Master](#)**  
+<p align="center">
+  🔗 <b><a href="https://type-master-gamma.vercel.app/dashboard" target="_blank">Click here to try Type Master</a></b>
+</p>
+
 
 ---
 
