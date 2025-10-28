@@ -1,6 +1,11 @@
 # 🧠 Type Master
 
-![Type Master Logo](./public/logo.png)
+<img src ="https://imgs.search.brave.com/OH-rAoXecZuaavDOfiLOu1ft1UkCjG_WDXxtacDq1E8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZs/YXRpY29uLmNvbS8x/MjgvMTExMTUvMTEx/MTU4NzgucG5n"  width = 200/>
+
+
+A fast, responsive, and elegant **typing practice web app** built during the **Masai School Diwali Break Project (October 2025)**.  
+**Type Master** helps users improve their typing speed, accuracy, and consistency — all wrapped in a beautiful, modern UI built with **React** and **Tailwind CSS**.
+
 
 A fast, responsive, and elegant **typing practice web app** built during the **Masai School Diwali Break Project (October 2025)**.  
 **Type Master** helps users improve their typing speed, accuracy, and consistency — all wrapped in a beautiful, modern UI built with **React** and **Tailwind CSS**.
