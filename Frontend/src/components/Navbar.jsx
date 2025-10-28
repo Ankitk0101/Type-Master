@@ -1,4 +1,6 @@
+// src/components/Navbar.js
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Navbar = () => {
   return (
@@ -8,18 +10,26 @@ const Navbar = () => {
           {/* Logo */}
           <div className="flex items-center">
             <div className="flex-shrink-0">
-              <h1 className="text-white text-xl font-bold">TypeMaster</h1>
+              <Link to="/" className="text-white text-xl font-bold cursor-pointer">
+                TypeMaster
+              </Link>
             </div>
 
-            {/* Home & Dashboard Links */}
+            {/* Navigation Links */}
             <div className="hidden md:block">
               <div className="ml-10 flex items-baseline space-x-4">
-                <a
-                  href="/dashboard"
-                  className="text-white hover:text-blue-200 px-3 py-2 rounded-md text-sm font-medium transition duration-300"
+                <Link
+                  to="/"
+                  className="text-white hover:text-blue-200 px-3 py-2 rounded-md text-sm font-medium transition duration-300 cursor-pointer"
                 >
-                  Dashboard
-                </a>
+                  Home
+                </Link>
+                <Link
+                  to="/dashboard"
+                  className="text-white hover:text-blue-200 px-3 py-2 rounded-md text-sm font-medium transition duration-300 cursor-pointer"
+                >
+                  Typing Test
+                </Link>
               </div>
             </div>
           </div>
