@@ -130,10 +130,9 @@ This project was collaboratively built during **Masai School’s Diwali Break (O
 
 | Name                   | Role                 | GitHub                                                 |
 | ---------------------- | -------------------- | ------------------------------------------------------ |
-| 👨‍💻 **Ankit Kumar**  | Logic & Performance  | [@rajeshgupta-dev](https://github.com/rajeshgupta-dev) |
-| 👨‍💻 **Ankit Gupta**  | Frontend Developer   | [@ankit-ai-lab](https://github.com/ankit-ai-lab)       |
-| 👩‍💻 **Rajesh Gupta** | Full Stack Developer | [@Ankitk0101](https://github.com/Ankitk0101)           |
-
+| 👨‍💻 **Ankit Kumar**  | Logic & Performance  | [@Ankitk0101](https://github.com/Ankitk0101)              |
+| 👩‍💻 **Rajesh Gupta** | Full Stack Developer | [@rajeshgupta-dev](https://github.com/rajeshgupta-dev)    |
+| 👨‍💻 **Ankit Gupta**  | Frontend Developer   | [@ankit-ai-lab](https://github.com/ankit-ai-lab)          |
 ---
 
 ## 🌟 Future Enhancements
