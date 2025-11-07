@@ -6,10 +6,6 @@
 A fast, responsive, and elegant **typing practice web app** built during the **Masai School Diwali Break Project (October 2025)**.  
 **Type Master** helps users improve their typing speed, accuracy, and consistency — all wrapped in a beautiful, modern UI built with **React** and **Tailwind CSS**.
 
-
-A fast, responsive, and elegant **typing practice web app** built during the **Masai School Diwali Break Project (October 2025)**.  
-**Type Master** helps users improve their typing speed, accuracy, and consistency — all wrapped in a beautiful, modern UI built with **React** and **Tailwind CSS**.
-
 ---
 
 ## 🚀 Live Demo
@@ -136,10 +132,9 @@ This project was collaboratively built during **Masai School’s Diwali Break (O
 
 | Name                   | Role                 | GitHub                                                 |
 | ---------------------- | -------------------- | ------------------------------------------------------ |
-| 👨‍💻 **Ankit Kumar**  | Logic & Performance  | [@rajeshgupta-dev](https://github.com/rajeshgupta-dev) |
-| 👨‍💻 **Ankit Gupta**  | Frontend Developer   | [@ankit-ai-lab](https://github.com/ankit-ai-lab)       |
-| 👩‍💻 **Rajesh Gupta** | Full Stack Developer | [@Ankitk0101](https://github.com/Ankitk0101)           |
-
+| 👨‍💻 **Ankit Kumar**  | Logic & Performance  | [@Ankitk0101](https://github.com/Ankitk0101)              |
+| 👩‍💻 **Rajesh Gupta** | Full Stack Developer | [@rajeshgupta-dev](https://github.com/rajeshgupta-dev)    |
+| 👨‍💻 **Ankit Gupta**  | Frontend Developer   | [@ankit-ai-lab](https://github.com/ankit-ai-lab)          |
 ---
 
 ## 🌟 Future Enhancements
